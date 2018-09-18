@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g3.6pre-91-g38c8f0d58`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.6pre-91-g38c8f0d58/gzdoom-g3.6pre-91-g38c8f0d58.dmg)|`2bcdd0c658c444434ce874dd4239dfe57ad089a6509bc4cc26318149438fca51`|
 |[`g3.6pre-79-g2d53ad6f1`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.6pre-79-g2d53ad6f1/gzdoom-g3.6pre-79-g2d53ad6f1.dmg)|`0b5f4fdee4833ff82d63b6e56cfbd56bded3ec7b412b8068e39402f335c278bf`|
 |[`g3.6pre-71-gf007473a9`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.6pre-71-gf007473a9/gzdoom-g3.6pre-71-gf007473a9.dmg)|`08f750844e8ca51eae5c7ae4547867e8b1faf1a8a4c4ee8d5c31db2b796ba209`|
 |[`g3.6pre-56-g55d1613ea`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g3.6pre-56-g55d1613ea/gzdoom-g3.6pre-56-g55d1613ea.dmg)|`462df05dc64456bcdd3f37f528c86d9ecff0f3424d35116b16362c5aa2be81f9`|
